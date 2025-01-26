@@ -25,7 +25,7 @@ At **DevPlatform Solutions**, I offer a comprehensive suite of services tailored
   - Repository optimization and workflow automation
 
 - **DevOps Consulting**
-  - Infrastructure as Code (IaC) using Terraform and Ansible
+  - Infrastructure as Code (IaC) using AWS CDK, Pulumi and Ansible
   - Containerization with Docker and orchestration with Kubernetes
   - AWS Cloud architecture and management
 
@@ -45,7 +45,6 @@ At **DevPlatform Solutions**, I offer a comprehensive suite of services tailored
 
 - **Expertise Across Domains:** Leveraging extensive experience in both scientific research and cloud DevOps to deliver nuanced and effective solutions.
 - **Customized Solutions:** Tailored strategies that align with your unique business needs and technical requirements.
-- **Proven Track Record:** Successfully managed and optimized complex development platforms, ensuring seamless operations and enhanced performance.
 - **Commitment to Excellence:** Dedicated to providing top-notch service and continuous support to help your business thrive.
 
 ---
