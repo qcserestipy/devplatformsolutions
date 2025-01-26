@@ -50,25 +50,12 @@ At **DevPlatform Solutions**, I offer a comprehensive suite of services tailored
 
 ---
 
-### Testimonials
-
-> "Patrick has been instrumental in optimizing our GitLab setup, significantly improving our CI/CD processes. His expertise is unmatched."  
-> — **Jane Doe**, Lead Developer at XYZ Corp.
-
-> "Thanks to DevPlatform Solutions, our development platform is more reliable and scalable than ever. Highly recommend their services!"  
-> — **John Smith**, CTO at ABC Ltd.
-
-*Feel free to reach out for more testimonials and case studies.*
-
----
-
 ### Contact
 
 Ready to elevate your development platform? Let’s connect!
 
 - **Email:** [patrick@devplatformsolutions.com](mailto:patrick@devplatformsolutions.com)
-- **LinkedIn:** [linkedin.com/in/patrick-devops](https://www.linkedin.com/in/patrick-devops)
-- **GitHub:** [github.com/patrick-devops](https://github.com/patrick-devops)
+- **GitHub:** [github.com/patrick-devops](https://github.com/qcserestipy)
 
 Alternatively, you can fill out the [contact form](#) on my website to schedule a consultation.
 
